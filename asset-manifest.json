@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/guanquann/guanquann.github.io/static/css/main.e4705bb1.css",
+    "main.js": "/guanquann/guanquann.github.io/static/js/main.d6eeb587.js",
+    "static/js/787.1ed0c42c.chunk.js": "/guanquann/guanquann.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bus.jpg": "/guanquann/guanquann.github.io/static/media/bus.174d49227785f6860681.jpg",
+    "static/media/resume.pdf": "/guanquann/guanquann.github.io/static/media/resume.89c83bf12d23220390cd.pdf",
+    "static/media/about.jpg": "/guanquann/guanquann.github.io/static/media/about.deead95391e5562f2725.jpg",
+    "static/media/dashboard.jpg": "/guanquann/guanquann.github.io/static/media/dashboard.43405873d0f16eaf37b1.jpg",
+    "static/media/stocksera.png": "/guanquann/guanquann.github.io/static/media/stocksera.9ae025160c3546c6c74d.png",
+    "static/media/email.svg": "/guanquann/guanquann.github.io/static/media/email.335e0378c2e5bd18ecb6ab8d9fc23f9a.svg",
+    "static/media/css.svg": "/guanquann/guanquann.github.io/static/media/css.560a36650aaffe4bb961fed5cd336892.svg",
+    "static/media/neo4j.svg": "/guanquann/guanquann.github.io/static/media/neo4j.a3fe25cc4e85c7438e6f604b87522652.svg",
+    "static/media/power-bi.svg": "/guanquann/guanquann.github.io/static/media/power-bi.7ec97246e573fee5278bcff5f8921e7c.svg",
+    "static/media/javascript.svg": "/guanquann/guanquann.github.io/static/media/javascript.dce2f7564f0e0b2db77f90d7845cac5d.svg",
+    "static/media/github.svg": "/guanquann/guanquann.github.io/static/media/github.95ad9234e1509d5c93ffe0a9f7eb217a.svg",
+    "index.html": "/guanquann/guanquann.github.io/index.html",
+    "static/media/qlik.svg": "/guanquann/guanquann.github.io/static/media/qlik.a7437f896ceddf4e1532ddd68dc6d4bb.svg",
+    "static/media/posts.md": "/guanquann/guanquann.github.io/static/media/posts.fc55514451fc64378644.md",
+    "static/media/python.svg": "/guanquann/guanquann.github.io/static/media/python.1442a95cee7dcf119128e314d48f7c18.svg",
+    "static/media/linkedin.svg": "/guanquann/guanquann.github.io/static/media/linkedin.beca437ff906ecdaf04245d3f950c09c.svg",
+    "static/media/html.svg": "/guanquann/guanquann.github.io/static/media/html.c8bf2db89fce8f98a3e4f6413ddd91db.svg",
+    "main.e4705bb1.css.map": "/guanquann/guanquann.github.io/static/css/main.e4705bb1.css.map",
+    "main.d6eeb587.js.map": "/guanquann/guanquann.github.io/static/js/main.d6eeb587.js.map",
+    "787.1ed0c42c.chunk.js.map": "/guanquann/guanquann.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4705bb1.css",
+    "static/js/main.d6eeb587.js"
+  ]
+}
